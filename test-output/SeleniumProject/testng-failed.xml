@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SeleniumProject]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="uname" value="priya.1991ravi@gmail.com"/>
+    <parameter name="pass" value="paGELU5A"/>
+    <classes>
+      <class name="com.edureka.testng.Parametersclass">
+        <methods>
+          <include name="login" invocation-numbers="0"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.edureka.testng.Parametersclass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [SeleniumProject] -->

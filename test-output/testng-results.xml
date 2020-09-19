@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73336" started-at="2019-11-05T14:49:51Z" finished-at="2019-11-05T14:51:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73336" started-at="2019-11-05T14:49:51Z" finished-at="2019-11-05T14:51:05Z">
+      <class name="com.edureka.testng.dataprovider">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.edureka.testng.dataprovider@965684]" name="preCondition" is-config="true" duration-ms="67779" started-at="2019-11-05T14:49:51Z" finished-at="2019-11-05T14:50:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.edureka.testng.dataprovider@965684]" name="login" duration-ms="5523" started-at="2019-11-05T14:50:59Z" data-provider="getdata" finished-at="2019-11-05T14:51:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[priya.1991ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[paGELU5A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.edureka.testng.dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

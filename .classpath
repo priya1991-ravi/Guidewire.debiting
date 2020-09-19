@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/selenium-server-standalone-3.3.1 (1).jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-bin-3.14.zip"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/priya shit/Priya/Downloads/poi-3.14/poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
